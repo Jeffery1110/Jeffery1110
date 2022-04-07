@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffery1110&layout=compact&include_all_commits=true&count_private=true">
-<img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffery1110&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,23272D,243949">
+
