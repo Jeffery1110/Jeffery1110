@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <p>
   <img style="height:22px" alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"></a>
   <img style="height:22px" alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.NET&logoColor=white"></a>
+  <img style="height:22px" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"></a>
+  <img style="height:22px" alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"></a>
   <img style="height:22px" alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img style="height:22px" alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img style="height:22px" alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/>
