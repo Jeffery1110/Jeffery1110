@@ -41,9 +41,16 @@ Here are some ideas to get you started:
   <img style="height:22px" alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white"/> </a>
 </p>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffery1110&layout=compact&include_all_commits=true&count_private=true">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Jeffery1110&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=black&ring=DDA12C&fire=DD2727&currStreakNum=61FFBA&sideNums=51D49BEE&currStreakLabel=FFFFFF&dates=F8E0FF"><br> 
-<img width=45% src="https://github-readme-stats.vercel.app/api?username=Jeffery1110&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978">
+
+<p align="center">
+    <a href="https://github.com/Jeffery1110">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pranav Masekar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffery1110&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+![Jeffery1110's github stats](https://github-readme-stats.vercel.app/api?username=Jeffery1110&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)|<a href="https://github.com/Jeffery1110"><img alt="Jeffery1110's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffery1110&langs_count=16&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=c,c%2B%2B,cmake" /></a>
+|-|-|
+
 
 
 
