@@ -41,13 +41,17 @@ Here are some ideas to get you started:
   <img style="height:22px" alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white"/> </a>
 </p>
 
+<div align="center">
+  <a href="https://www.github.com/chenchewei" target="blank">
+    <img width=48% src="http://github-readme-streak-stats.herokuapp.com?user=Jeffery1110&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img width=48% src="https://github-readme-stats.vercel.app/api?username=Jeffery1110&include_all_commits=true&count_private=true&title_color=8CCEFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,231557,44107A">
+  </a>
+
+</div>
 
 <div align="center">
-  <a href="https://www.github.com/Jeffery1110" target="blank">
-    <img width=50% src="http://github-readme-streak-stats.herokuapp.com?user=Jeffery1110&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=23272D&ring=DDA12C&fire=DD2727&currStreakNum=61FFBA&sideNums=51D49BEE&currStreakLabel=FFFFFF&dates=F8E0FF"><br> 
-    <img width=45% src="https://github-readme-stats.vercel.app/api?username=Jeffery1110&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,243949,23272D">
-    <img width=35% height=10% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffery1110&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,23272D,243949">
-  </a>
+<img width=35% height=10% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffery1110&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,23272D,243949">
+</a>
 </div>
 
 
