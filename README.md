@@ -50,8 +50,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.github.com/chenchewei" target="blank">
+     <img width=48% src="https://github-readme-stats.vercel.app/api?username=Jeffery1110&include_all_commits=true&count_private=true&title_color=8CCEFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,231557,44107A">
     <img width=48% src="http://github-readme-streak-stats.herokuapp.com?user=Jeffery1110&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <img width=48% src="https://github-readme-stats.vercel.app/api?username=Jeffery1110&include_all_commits=true&count_private=true&title_color=8CCEFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,231557,44107A">
+   
   </a>
 
 </div>
